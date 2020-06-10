@@ -46,3 +46,47 @@ Todo
 - Create a folder for Infovis modules, and place all infovis files in the folder.
 - Start searching for finance datasets and start a list.
 - Check out fintechviz.
+
+## 28 May 2020
+
+Attendance: Luciano James, James Williams, Bob via Skype
+
+Next meeting: Thursday at 14:30
+
+Topics discussed
+
+(LJ)
+- FootballVis
+- Ethics
+
+(JW)
+- IEX Cloud API
+
+Progress
+
+(LJ)
+- Look through minutes
+- Google dataset search
+- Minutes of meeting
+- Looked at rugby visualisation
+
+(JW)
+- Created website to host documentation
+- investigated finance APIs
+
+To Do
+
+(LJ)
+- Try to find spatial location event data in CSV format
+- Look for "Soccer visualisation" and "Football visualisation" in Google scholar
+- Use Java unless you find something better
+- Search for "creating visualisations using python"
+- Test python visualisation libraries
+- Draft "Required" and "Optional" features
+- Keep developing technology choices section
+
+(JW)
+- Check if Google offers a Finance API
+- Create first line chart
+- Store data in database
+- Submit ethics form
