@@ -96,3 +96,50 @@ To Do
 - Create first line chart
 - Store data in database
 - Submit ethics form
+
+## 04 June 2020
+
+Attendance: Luciano James, James Williams, Bob via Skype
+
+Next meeting: Thursday at 14:30
+
+Topics discussed
+
+(LJ)
+
+- A public dataset for spatial temporal analysis in soccer competitions. 
+- Soccer Match Event Set
+- Sports visualization workshops
+
+(JW)
+
+- IEX Cloud API
+
+Progress
+
+(LJ)
+
+- Research on football datasets. 
+- WXPython, GTK.
+
+(JW)
+
+- Google used to offer a finance API. 
+- Testing IEX API
+- First line chart, time vs price. 
+
+To Do
+
+(LJ)
+
+- Email authors about how to access data. 
+- Test out WXPython
+- Write a description of the soccer dataset within the data characteristics section.
+- Look at plots from previously mentioned paper. 
+- Try some simple plots within Excel. 
+
+(JW)
+
+- Take screenshots of process.
+- Multiple stocks on one line chart.
+- Writing thesis: data characteristics and requirements. 
