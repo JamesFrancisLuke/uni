@@ -56,27 +56,32 @@ Next meeting: Thursday at 14:30
 Topics discussed
 
 (LJ)
+
 - FootballVis
 - Ethics
 
 (JW)
+
 - IEX Cloud API
 
 Progress
 
 (LJ)
+
 - Look through minutes
 - Google dataset search
 - Minutes of meeting
 - Looked at rugby visualisation
 
 (JW)
+
 - Created website to host documentation
 - investigated finance APIs
 
 To Do
 
 (LJ)
+
 - Try to find spatial location event data in CSV format
 - Look for "Soccer visualisation" and "Football visualisation" in Google scholar
 - Use Java unless you find something better
@@ -86,6 +91,7 @@ To Do
 - Keep developing technology choices section
 
 (JW)
+
 - Check if Google offers a Finance API
 - Create first line chart
 - Store data in database
