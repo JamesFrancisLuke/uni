@@ -143,3 +143,47 @@ To Do
 - Take screenshots of process.
 - Multiple stocks on one line chart.
 - Writing thesis: data characteristics and requirements. 
+
+## 11 June 2020
+
+Attendance: Luciano James, James Williams, Bob via Skype
+
+Next meeting: Thursday at 14:30
+
+Topics discussed
+
+(JW)
+
+- Seeking Alpha
+
+Progress
+
+(LJ)
+
+- Summarized sport visualization workshop literature. 
+- Basic charts of soccer/football data using Excel.
+
+(JW)
+
+- Multiple stocks on one line chart.
+- (Thesis) Data characteristics complete.
+
+To Do
+
+(LJ)
+
+- Try to recreate event visualization examples on football field.
+- Write about Python libraries in your technology choices section.
+
+(Bob)
+- Accept ethics form.
+
+(JW)
+
+- Make sure to compare data with Yahoo Finance for verification - top 10 in S&P 500.
+- Make sure to choose populat American stocks like APPL, MSFT and GOOG
+- Store lists of stocks
+- User option stock lists.
+- Temporal data.
+- (Thesis) Write Technology Choice section.
+- (Thesis) Similar Application section.
