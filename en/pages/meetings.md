@@ -187,3 +187,43 @@ To Do
 - Temporal data.
 - (Thesis) Write Technology Choice section.
 - (Thesis) Similar Application section.
+
+## 18 June 2020
+
+Attendance: Luciano James, James Williams, Bob via Skype
+
+Next meeting: Thursday at 14:30
+
+Topics discussed
+
+- Position data
+- Visualization resources
+
+Progress
+
+(LJ)
+
+- Plot lib to recreate positions.
+- Uploaded ethics.
+
+(JW)
+
+- Tooltip on stock price - for visualization.
+- Stock portfolios and stock sectors
+- Time period selection.
+- Start of custom portfolios.
+- JSDocs added.
+- Writen similar application and technology choices.
+
+To Do
+
+(LJ)
+
+-  Have a look through visualization resources.
+- User options: select team.
+- User options: select event type - map each category to a colour.
+
+(JW)
+
+- Have a look through visualization resources document. 
+- User interface options.
