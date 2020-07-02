@@ -227,3 +227,42 @@ To Do
 
 - Have a look through visualization resources document. 
 - User interface options.
+
+## 25 June 2020
+
+Attendance: Luciano James, James Williams, Bob via Skype
+
+Next meeting: Thursday at 14:30
+
+Topics discussed
+
+- Visualization resources
+
+Progress
+
+(LJ)
+
+- Colors paired to team, started investigating event types and locations.
+
+(JW)
+
+- Adding own portfolio, time-period selection.
+- Refactoring code.
+
+(Bob)
+
+- Updated the visualization resources document.
+
+To Do
+
+(LJ)
+
+- Email creators of football data to ask for clarification on players their locations.
+- User option - user can select team or match.
+- A time-line in focus + context. 
+
+(JW)
+
+- Adding new data as its published.
+- Show meta-data such as p/e market capitalization, industry sector,
+- zooming and panning to chart.
