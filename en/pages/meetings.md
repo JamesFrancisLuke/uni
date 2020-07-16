@@ -266,3 +266,81 @@ To Do
 - Adding new data as its published.
 - Show meta-data such as p/e market capitalization, industry sector,
 - zooming and panning to chart.
+
+## 02 July 2020
+
+Attendance: Luciano James, James Williams, Bob via Skype
+
+Next meeting: Thursday at 14:30
+
+Topics discussed
+
+- NASDAQ 3,300 companies.
+- NYSE 2,800 companies.
+- QT Python
+- 10 th September 2020 Thesis Deadline
+
+Progress
+
+(LJ)
+
+- Corresponded with authors of data.
+- Selecting a specific match to view - country + match selection.
+
+(JW)
+
+- A script to qcquire key stats for stock tickers - meta-data. 
+- Zooming and panning to line chart with dyanmic axes. 
+
+To Do
+
+(LJ)
+
+- CC Bob on all email correspondence. 
+- Add dropdown list of matches by team names and dates. 
+- User option: Filtering based on type of event - use focus + context style rendering - focus is in color - context is in greyscale. 
+
+(JW)
+
+- Build a GUI for searching and filtering based on meta-data. 
+
+## 09 July 2020
+
+Attendance: Luciano James, James Williams, Bob via Skype
+
+Next meeting: Thursday at 14:30
+
+Topics discussed
+
+- James was ill.
+- Vis resources document. 
+
+Progress
+
+(LJ)
+
+- Events appear on different sides of the pitch. 
+- User option: choose a type of event. 
+- Project plan writing. 
+
+(JW)
+
+- Search UI for meta-data. 
+- Focusing on document due to illness. 
+
+To Do
+
+(LJ)
+
+- User Option: Choosing a focus team. 
+- Searching for a match. 
+- Start developing a glyph for events. 
+- View of matched using team logos. 
+
+(JW)
+
+- Continuing search UI. 
+
+(Both)
+
+- Submit project plan document. 
