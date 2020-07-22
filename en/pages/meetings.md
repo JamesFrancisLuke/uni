@@ -344,3 +344,52 @@ To Do
 (Both)
 
 - Submit project plan document. 
+
+## 16 July 2020
+
+Attendance: Luciano James, James Williams, Bob via Skype
+
+Next meeting: Thursday at 14:30
+
+Topics discussed
+
+- Vis resources.
+
+Progress
+
+(LJ)
+
+- Search By Team
+- Each team has colour.
+
+(Both)
+
+- Project Plan documents.
+
+(JW)
+
+- Trello for project management. 
+- Search UI includes 15-20 stats and combinations.
+- Stackable Queries.
+
+To Do
+
+(LJ)
+
+- Choose team from a list.
+- Experiement with logos as JPEGs textures (Requires investigation)
+- Calendar View of matches using team logos. 
+- Continue developing glyph for events. 
+
+(JW)
+
+- Deletable queries.
+- Time-series graph view of search results.
+
+(Both)
+
+- Show a screenshot of work for next week.
+
+(Bob)
+
+- Scores project plan documents. 
