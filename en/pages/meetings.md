@@ -393,3 +393,44 @@ To Do
 (Bob)
 
 - Scores project plan documents. 
+
+## 23 July 2020
+
+Attendance: Luciano James, James Williams, Bob via Skype
+
+Next meeting: Thursday at 14:30
+
+Progress
+
+(LJ)
+
+- Tried logos as JPEGS
+- List all teams as user option
+- Attempt at calendar view
+- First Attempt at event glyphs.
+
+(JW)
+
+- Color-mapping of line chart. 
+- Line chart as focus view. 
+- Advanced Filter options.
+
+To Do
+
+(LJ)
+
+- Show country and team sleection in the form of a table.
+- Show teams logos inside days of calendar - based on months. 
+- Try pie glyphs.
+- Show start and end points of events as an edge. 
+
+(JW)
+
+- Only show year once in x-exis. 
+- Present meta data options as a table. 
+- Demo different filtering options. 
+- Saveable queries. 
+
+(Both)
+
+- Explore color legends using colorgorical, make colours distinct and aesthetic. 
