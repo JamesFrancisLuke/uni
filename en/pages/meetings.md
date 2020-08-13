@@ -434,3 +434,49 @@ To Do
 (Both)
 
 - Explore color legends using colorgorical, make colours distinct and aesthetic. 
+
+## 6 August 2020
+
+Attendance: Luciano James, James Williams, Bob via Skype
+
+Next meeting: Thursday at 14:30
+
+Topics discussed
+
+- Color maps
+
+Progress
+
+(LJ)
+
+- Search by country.
+- Adding edges to events.
+- Pie glyphs to events.
+
+(JW)
+
+- Colorgorical colormaps
+- User options in table form on GUI.
+- Attempt to remove years for x-axis.
+
+To Do
+
+(LJ)
+
+- Home screen is a map where user can click on a country. 
+- User option: Rotate glyphs by 90%.
+- Color code edges by event type - use event types glyph. 
+- Try directed edges for event start and end. 
+- Filtering events by event type and or time of event. 
+
+(JW)
+
+- User option that shows a list of saved queries. 
+- Editing saved queries.
+- Customizable colors / selection of color maps.
+- Complex query: show stocks that have dropped by n% in the last (time frame). 
+
+(Both)
+
+- Show a screenshot of work for next week.
+- Incorporate Chao Tongs color maps from "time-oreitned cartographic treemaps" paper. 
