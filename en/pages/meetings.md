@@ -479,4 +479,92 @@ To Do
 (Both)
 
 - Show a screenshot of work for next week.
-- Incorporate Chao Tongs color maps from "time-oreitned cartographic treemaps" paper. 
+- Incorporate Chao Tongs color maps from "time-oriented cartographic treemaps" paper. 
+
+## 13 August 2020
+
+Attendance: Luciano James, James Williams, Bob via Skype
+
+Next meeting: Thursday at 14:30
+
+Progress
+
+(LJ)
+
+- Adding user options.
+- Glyph rotation by 90
+- Directed arrows for begin -> end events.
+- time frame sliders.
+- map view.
+
+(JW)
+
+- Showing saved queries + save stock outputs.
+- Color theme selection.
+- Dark mode + full screen view. 
+- Point size and animation
+- Complex query: show stocks that have dropped n% in last timeframe. 
+- Combinations of queries and filters. 
+
+To Do
+
+(LJ)
+
+- Remove context user option.
+- Interactive focus and context with event type options.
+- Focus and context glyphs and arrows - focus is always rendered on top - use arrows to indicate. 
+- Remove "both"
+- User option show arrows for end event.
+- Play mode in focus and context and playback speed. 
+
+(JW)
+
+- Comparing historical queries with current queries. 
+- Color customizable.
+- Complex query = show companies whose profit was increased over year for the past 4 years. 
+- Complex query = show top 10 companies with increase in profit over last 10 years. 
+
+
+(Both)
+
+- User colorgorical to re-create Chao Tongs maps from "time-oriented cartographic treemaps" paper. 
+
+## 20 August 2020
+
+Attendance: Luciano James, James Williams, Bob via Skype
+
+Next meeting: Thursday at 14:30
+
+Progress
+
+(LJ)
+
+- Focus and context is always on, focus on top. 
+- First attempt at play.
+- Arrows instead of diamonds.
+- Addded team logos. 
+
+(JW)
+
+- Custom color selection updates.
+- Verification and validation code. 
+- Support for historical queries. 
+- Attempt at historical financial profit. 
+
+To Do
+
+(LJ)
+
+- Increase image size on playing field.
+- Show a playback demo video.
+- Context is rendered in greyscale.
+- Introduce a grey-scale color legend for context. 
+
+(JW)
+
+- Support for historical queries with a Q glyph.
+- Try to arrange your GUI similar to that of the IBFV demo.
+
+(Both)
+
+- Write thesis.
