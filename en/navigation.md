@@ -12,16 +12,8 @@
 
 [gimmick:theme](spacelab)
 
-[Modules]()
-
-- # Modules
-- [Research Methods](pages/researchMethods.md)
-- [Fundamentals of Information Visualisation](pages/infovis.md)
-- [Information Visualisation Project](pages/infovisproject.md)
-
 [Minutes](pages/meetings.md)
 
-[Document Collection](pages/docs.md)
 
 <!--
   -- Change the Language

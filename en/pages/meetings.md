@@ -568,3 +568,39 @@ To Do
 (Both)
 
 - Write thesis.
+
+## 3 September 2020
+
+Attendance: Luciano James, James Williams, Bob via Skype
+
+Next meeting: Thursday at 14:30
+
+Progress
+
+(LJ)
+
+ - Spelling fixes.
+ - Time of events is visible.
+ - Updated logos
+ - Glyph scaling
+ - Accelerated timing to 10 minutes.
+
+(JW)
+
+- Meta-data comparison attempt.
+- Thesis writing.
+
+To Do
+
+(LJ)
+
+- Use case scenarios - finding out which events lead to goals. 
+
+(JW)
+
+- Good stocks to purchase and comparisons as case studies. 
+
+(Both)
+
+- Thesis write up and demo video.
+- Evaluation: Case Studies. 
